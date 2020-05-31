@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 6.3.2-beta.1
+- allow multiple operations per file
+
 ## 6.3.1-beta.1
 - Do not throw on unused scalars.
 
